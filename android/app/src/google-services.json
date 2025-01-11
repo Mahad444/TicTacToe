@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391611297844",
+    "project_id": "tic-toe-142df",
+    "storage_bucket": "tic-toe-142df.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391611297844:android:68fb2d3f71e21322485a61",
+        "android_client_info": {
+          "package_name": "com.mahadtictoe.TicToe"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUz3pNlOinRtdZRDHIj_th4mrEfVzJ3EA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
