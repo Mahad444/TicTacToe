@@ -81,7 +81,7 @@ List<String> langCode = ["en", "es", "hi", "ar", "ru", "ja", "de", "sw"];
 final String privacyText = '''
 <p></p>
 <h2><b>Privacy Policy</b></h2>
-<a href="https://www.google.com">Google</a>
+<a href="https://github.com/Mahad444/TictactoePrivacy-Terms-and-Conditions-">CubeouTech</a>
 Welcome to the Privacy Policy for  Tic Tac Toe . This policy explains how we collect, use, share, and protect your personal information when you use our game and related services. Please read this policy carefully to understand our practices regarding your privacy and your rights.
 
 <br><br>
